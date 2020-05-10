@@ -42,4 +42,4 @@ end
 
 # we need to make a new array to store our hash of food items
 # iterating over our cart length.
-#  we first need to check if our new ite
+#  we need to check if our item already exist
