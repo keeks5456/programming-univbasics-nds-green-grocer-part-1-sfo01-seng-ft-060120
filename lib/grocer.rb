@@ -36,6 +36,10 @@ else
   end
    new_cart
 end
-
 # return [{:item => "NAME", :price => "PRICE", :clearance = "BOOLEN", :count = "NUMBER"}]
 # {:item => "KALE", :price => 3.00, :clearance => false, :count => 1}
+
+
+# we need to make a new array to store our hash of food items
+# iterating over our cart length.
+#  we first need to check if our 
