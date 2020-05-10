@@ -12,7 +12,7 @@ end
 #iterating through our collection
 # if at the collection[index] the [:item] matches the name 
 # we must return that collectionat the [index] it was found
-# example: if the name is "Avocado" we need to return
+# example: if the name is "Avocado" the result shoud be {:item => "AVOCADO", :price => 3.00, :clearance => true }
 
 
 
