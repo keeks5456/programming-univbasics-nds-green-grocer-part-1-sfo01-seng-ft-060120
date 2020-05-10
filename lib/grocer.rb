@@ -43,4 +43,4 @@ end
 # we need to make a new array to store our hash of food items
 # iterating over our cart length.
 #  we need to check if our item already exist in new_cart
-# declare a new variable and assign it to the function  
+# declare a new variable and assign it to the find_item_by_name_in_collection(name, collection) 
