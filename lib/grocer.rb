@@ -45,3 +45,4 @@ end
 #  we need to check if our item already exist in new_cart
 # declare a new variable (new_cart_item) and assign it to the find_item_by_name_in_collection(name, collection) ==> where the (name) will be cart[counter][:item] and the (collection) will be our new_cart
 # we need to check for existing items in new_cart if any 
+# new_cart_item will either return the item we need or it will return nil
