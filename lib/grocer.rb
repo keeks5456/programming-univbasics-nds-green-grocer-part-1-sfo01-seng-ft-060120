@@ -43,4 +43,5 @@ end
 # we need to make a new array to store our hash of food items
 # iterating over our cart length.
 #  we need to check if our item already exist in new_cart
-# declare a new variable and assign it to the find_item_by_name_in_collection(name, collection) ==> where the (name) will be cart[counter][:item] and the (collection) will be our new_cart
+# declare a new variable (new_cart_item) and assign it to the find_item_by_name_in_collection(name, collection) ==> where the (name) will be cart[counter][:item] and the (collection) will be our new_cart
+# we need to check for existing items in new_cart if any 
