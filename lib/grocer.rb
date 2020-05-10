@@ -1,14 +1,18 @@
 require 'pry'
 
 def find_item_by_name_in_collection(name, collection)
-  i = 0
-  while i < collection.length 
-    if collection[i][:item] == name 
-      return collection[i]
+  counter = 0
+  while counter < collection.length 
+    if collection[counter][:item] == name 
+      return collection[counter]
     end
-      i += 1
+      counter += 1
   end
 end
+#iterating through our collection
+# if at the collection[index] the [:item] matches the name 
+# we must return that collectionat the [index] it was found
+# example: if the name is "Avocado" we need to return
 
 
 
